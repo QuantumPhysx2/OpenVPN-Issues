@@ -1,5 +1,5 @@
 <h1>
-  <a href="">Unrecognized option or missing or extra parameter(s) in {.ovpn file}: data-ciphers-falback</a>
+  Unrecognized option or missing or extra parameter(s) in {.ovpn file}: data-ciphers-falback
 </h1>
 <details>
   <summary>Read more</summary>
